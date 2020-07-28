@@ -1,17 +1,22 @@
 # Creating-Quiz-uding-Python-Data-Structure
 i have done this project on coursera and earned a certificate. In this project i learn that  how to create quiz using python
-# Creating-Quiz-using-Python-Data-Structure
-I have done this project from coursera website and earn a certificate and got a very good experience from it.
-We have done Project Using Python Data Structures and Algorithm.
-My name is Akhlaq Ali with my project partner Mohammad Kamil
-This project (Python Data Structre) is implemented by me dated 25 July 2020
+## python-data-structures-quiz-project
+creating a quiz project 
+Project Developer : Akhlaq Ali
+Student of Software Engineering, Sukkur IBA University
 ----------------------------------
-Instruction To Use this Project
--> First of all you need to install python new version click on the link https://www.python.org/downloads/
--> Extract this project from rar to any folder
-->Open your command line interface into present project directory
-	enter command to run this project _________________________________ python quiz.py
--> Enjoye by attempting the quiz
+How the project will work?
+------------------------------------
+please read the following instructions before you run  the project
+1) Download Python latest version and install it
+3) Extract this project file 
+4) Open in CMD or Windows power shell
+5) Set addresses of files of the project in the code
+5) Set the current directory (if previously not opened in same folder)
+6) Run the command	'quiz.py'
+7) Give relevant input and see the results
+--------------------------------------------------------------------
+
 -> For further detail if you want to see demostration of project then click on the link
 	https://youtu.be/hZ3SkTdt1og
 -> Git Link for code
